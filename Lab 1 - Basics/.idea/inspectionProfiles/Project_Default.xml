@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="backend.db.base.Base" />
+          <option value="backend.db.models.users.db" />
+          <option value="backend.db.session.*" />
+          <option value="backend.apis.base.apis" />
+          <option value="backend.apis.version1.route_users.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
